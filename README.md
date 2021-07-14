@@ -34,4 +34,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=AyonijaKaushik19&show_icons=true&locale=en" alt="AyonikaKaushik19" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AyonijaKaushik19&" alt="kanak22" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AyonijaKaushik19&" alt="AyonijaKaushik19" /></p>
