@@ -1,9 +1,9 @@
 <h1 align="center">Heya!🤗, It's me Ayonija</h1>
 <h3 align="center">A lively learner, who is keen to explore and keep doing experiment on new stuffs.</h3>
 
-<img align="right" alt="Coding" https://www.shutterstock.com/image-vector/pretty-beautiful-girl-wearing-virtual-reality-1180616419
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/75/8f/1c/758f1cd8cede9c3e4711306fc030f4ce.gif">
 
-<p align="left"> <img src="https://www.shutterstock.com/image-vector/pretty-beautiful-girl-wearing-virtual-reality-1180616419"alt="Ayonijakaushik19" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kanak22&label=Profile%20views&color=0e75b6&style=flat" alt="kanak22" /> </p>
 
 - 🔭 I’m a **B.sc in Data Science & Programming student from IITM, Chennai.**
 
