@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **ayonijakaushik19@gmail.com**
 
-- ⚡ Fun fact **I love to know about the things from very scratch and always seeking the originating points **
+- ⚡ Fun fact **I love to know about the things from very scratch and always seeking the originating points.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
