@@ -35,4 +35,18 @@ Programmer (noun): A machine that turns coffee into code.
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ayonijakaushik19&show_icons=true&theme=tokyonight" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=ayonijakaushik19&theme=tokyonight" />
 </p>
+<a href="https://github.com/Riya-Panhotra/Riya-Panhotra"><img alt=" Ashish's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Riya-Panhotra&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+![Contribution](https://user-images.githubusercontent.com/77095499/125171689-0dc07d80-e1d3-11eb-93d9-0747a8d22b0b.png)
+![𝙶𝚒𝚝𝚑𝚞𝚋 𝙲𝚘𝚗𝚝𝚛𝚒𝚋𝚞𝚝𝚒𝚘𝚗 𝙶𝚛𝚊𝚙𝚑](https://github.com/Ashish2030/Ashish2030/blob/main/github-contribution-grid-snake.svg)
+
+
+<!-- ![Metrics](https://metrics.lecoq.io/Riya-Panhotra?template=classic&isocalendar=1&languages=1&introduction=1&isocalendar.duration=halfyear&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.recent.load=300&languages.recent.days=14&introduction.title=false&config.timezone=Asia%2FCalcutta) -->
+
+
+<div align="center">
+ 
+### Show ❤️ by  <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="26px"> my [repositories](https://github.com/Riya-Panhotra?tab=repositories)!
+<p align="Center" ><img src="https://camo.githubusercontent.com/3b7c592ede97b6138ffd4b1cc1541c2f3b11fd39/687474703a2f2f33312e6d656469612e74756d626c722e636f6d2f31376665613932306666333665663466356238373764353231366137616164392f74756d626c725f6d6f39786a65387a5a34317163626975666f315f313238302e676966" height="230px" width ="230px"></p>
+
+</div>
 
