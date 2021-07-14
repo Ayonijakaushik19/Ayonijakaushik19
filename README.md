@@ -13,7 +13,7 @@ Programmer (noun): A machine that turns coffee into code.
 
 - 🌱 I’m currently learning **FullStack Web Development.**
 
-- 👯 I’m looking forward to **contribute to open source programme.**
+- 👯 I’m looking forward to **contributing to open source program.**
 
 - 🤝 I’m eager to know about **opportunities which will help me in expanding my potential.**
 
