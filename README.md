@@ -1,4 +1,4 @@
-## Hello world, It's me Ayonija<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
+<h1 align="center">Hello World <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, It's me Ayonija</h1>
 <h3 align="center">A lively learner, who is keen to explore and keep doing experiment on new stuffs.</h3>
 
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/75/8f/1c/758f1cd8cede9c3e4711306fc030f4ce.gif">
