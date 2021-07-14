@@ -1,5 +1,5 @@
 
-<h1 align="center">Hello World <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, It's me Ayonija</h1>
+<h1>Hello World <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, It's me Ayonija</h1>
 
 ```
 Programmer (noun): A machine that turns coffee into code.
