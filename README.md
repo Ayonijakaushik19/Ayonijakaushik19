@@ -7,8 +7,7 @@ I'm Ayonija, a Data Science Student at IITM Chennai. I am an open-source enthusi
 Programmer (noun): A machine that turns coffee into code.
 ```
 
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/75/8f/1c/758f1cd8cede9c3e4711306fc030f4ce.gif">
-
+<img align="right" alt="Coding" width="400" src="https://media2.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif?cid=ecf05e47pzi2rpig0vc8pjusra8hiai1b91zgiywvbubu9vu&rid=giphy.gif">
 
 - 🔭 I’m a **B.sc in Data Science & Programming student from IITM, Chennai.**
 
