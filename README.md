@@ -2,7 +2,6 @@
 
 ```
 Programmer (noun): A machine that turns coffee into code.
-
 ```
 
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/75/8f/1c/758f1cd8cede9c3e4711306fc030f4ce.gif">
