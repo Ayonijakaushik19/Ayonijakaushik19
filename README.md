@@ -1,5 +1,5 @@
 
-<h1>Hello World <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, It's me Ayonija </h1>
+<h1>Hello World <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, It's me Ayonija <p align="right"> <img src="https://komarev.com/ghpvc/?username=kanak22&label=Profile%20views&color=0e75b6&style=flat" alt="kanak22" /> </p></h1>
 
 ```
 Programmer (noun): A machine that turns coffee into code.
@@ -7,7 +7,7 @@ Programmer (noun): A machine that turns coffee into code.
 
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/75/8f/1c/758f1cd8cede9c3e4711306fc030f4ce.gif">
 
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=kanak22&label=Profile%20views&color=0e75b6&style=flat" alt="kanak22" /> </p>
+
 
 - 🔭 I’m a **B.sc in Data Science & Programming student from IITM, Chennai.**
 
