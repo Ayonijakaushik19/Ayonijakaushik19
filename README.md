@@ -1,7 +1,7 @@
 
 <h1>Hello World <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, It's me Ayonija <img align="right" src="https://komarev.com/ghpvc/?username=kanak22&label=Profile%20views&color=0e75b6&style=flat" alt="kanak22" /> </h1>
 
-I'm Ayonija, a Data Science Student at IITM Chennai. I have a creative and focused mindset with a strong sense of ownership. I really enjoy problem solving .I'm not only good at programming but also excellent at communication.
+I'm Ayonija, a Data Science Student at IITM Chennai.I am an open-source enthusiast.I have a creative and focused mindset with a strong sense of ownership. I really enjoy problem solving .I'm not only good at programming but also excellent at communication.
 
 ```
 Programmer (noun): A machine that turns coffee into code.
