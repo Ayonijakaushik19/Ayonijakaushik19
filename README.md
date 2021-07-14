@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **FullStack Web Development.**
 
-- 👯 I’m looking forward to **being familiar with various interesting projects.**
+- 👯 I’m looking forward to **contibute in open source programme.**
 
 - 🤝 I’m eager to know about **opportunities which will help me in expanding my potential.**
 
