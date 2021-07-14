@@ -3,7 +3,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/75/8f/1c/758f1cd8cede9c3e4711306fc030f4ce.gif">
 
-<p align="left"> <img src="https://www.shutterstock.com/image-vector/pretty-beautiful-girl-wearing-virtual-reality-1180616419 alt="Ayonijakaushik19" /> </p>
+<p align="left"> <img src="https://www.shutterstock.com/image-vector/pretty-beautiful-girl-wearing-virtual-reality-1180616419 "alt="Ayonijakaushik19" /> </p>
 
 - 🔭 I’m a **B.sc in Data Science & Programming student from IITM, Chennai.**
 
