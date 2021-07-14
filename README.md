@@ -13,7 +13,7 @@
 
 - 🤝 I’m eager to know about **opportunities which will help me in expanding my potential.**
 
-- 📫 How to reach me **AyonijaKaushik19@gmail.com**
+- 📫 How to reach me **ayonijakaushik19@gmail.com**
 
 - ⚡ Fun fact **I love to know about the things from very scratch and always seeking the originating points **
 
