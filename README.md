@@ -21,6 +21,8 @@ Programmer (noun): A machine that turns coffee into code.
 
 - ⚡ Fun fact **I love to know about the things from very scratch and always seeking the originating points.**
 
+- 💬 Ask me about anything and everything! If I don't know maybe I will learn something new!
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/ayonija-k19/ ." target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Ayonija ." height="30" width="40" /></a>
@@ -37,4 +39,4 @@ Programmer (noun): A machine that turns coffee into code.
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ayonijakaushik19&show_icons=true&locale=en" alt="ayonijakaushik19" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ayonijakaushik19&" alt="ayonijakaushik19" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ayonijakaushik19&" alt="ayonija" /></p>
