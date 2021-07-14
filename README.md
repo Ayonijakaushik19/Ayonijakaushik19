@@ -36,7 +36,7 @@ Programmer (noun): A machine that turns coffee into code.
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=ayonijakaushik19&theme=tokyonight" />
 </p>
 <a href="https://github.com/Ayonijakaushik19/Ayonijakaushik19"><img alt=" Ayonija's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=AyonijaKaushik19&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
-![Contribution](https://user-images.githubusercontent.com/77095499/125171689-0dc07d80-e1d3-11eb-93d9-0747a8d22b0b.png)
+
 ![𝙶𝚒𝚝𝚑𝚞𝚋 𝙲𝚘𝚗𝚝𝚛𝚒𝚋𝚞𝚝𝚒𝚘𝚗 𝙶𝚛𝚊𝚙𝚑](https://github.com/Ashish2030/Ashish2030/blob/main/github-contribution-grid-snake.svg)
 
 
