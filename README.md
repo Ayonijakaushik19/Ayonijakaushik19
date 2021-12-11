@@ -1,7 +1,7 @@
 
 <h1>"Hello World"<img src="https://github.com/Riya-Panhotra/Riya-Panhotra/blob/main/image/Developer.gif?raw=true" width="48px"> It's me Ayonija <img align="right" src="https://komarev.com/ghpvc/?username=kanak22&label=Profile%20views&color=0e75b6&style=flat" alt="kanak22" /> </h1>
 
-<h4>A Computer Science Student at ACEIT. I am an open-source enthusiast. I have a creative and focused mindset with a strong sense of ownership. I really enjoy problem solving .I'm not only good at programming but also excellent at communication.</h4>
+<h4>A Computer Science student. I am an open-source enthusiast. I have a creative and focused mindset with a strong sense of ownership. I really enjoy problem solving .I'm not only good at programming but also excellent at communication.</h4>
 
 ```
 Programmer (noun): A machine that turns coffee into code.
@@ -9,7 +9,7 @@ Programmer (noun): A machine that turns coffee into code.
 
 <img align="right" alt="Coding" width="400" src="https://media2.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif?cid=ecf05e47pzi2rpig0vc8pjusra8hiai1b91zgiywvbubu9vu&rid=giphy.gif">
 
-- 🔭 I’m also a  **B.sc in Data Science & Programming student from IITM, Chennai.**
+- 🔭 I’m  a  **B.sc in Data Science & Programming student from IITM, Chennai.**
 
 - 🌱 I’m currently learning **FullStack Web Development.**
 
