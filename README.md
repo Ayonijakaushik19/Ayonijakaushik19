@@ -11,9 +11,9 @@ Programmer (noun): A machine that turns coffee into code.
 
 - 🔭 I’m  a  **B.sc in Data Science & Programming student from IITM, Chennai.**
 
-- 🌱 I’m currently learning **FullStack Web Development.**
+- 🌱 I’m currently learning **how to use data to make the world a better place.**
 
-- 👯 I’m looking forward to **contributing to open source program.**
+- 👯 I’m looking forward to **to collaborate on Data analysis projects to enhance my data skills**
 
 - 🤝 I’m eager to know about **opportunities which will help me in expanding my potential.**
 
